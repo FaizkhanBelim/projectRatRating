@@ -22,7 +22,7 @@ export class HomeComponent implements OnInit {
   medicine() {
     this.router.navigate(['/medicine']);
   }
-  movie() {
+  movies() {
     this.router.navigate(['/movie']);
   }
   education() {
