@@ -31,4 +31,40 @@ export class HomeComponent implements OnInit {
   software() {
     this.router.navigate(['/software']);
   }
+  music() {
+    this.router.navigate(['/music']);
+  }
+  torrent() {
+    this.router.navigate(['/torrent']);
+  }
+  game() {
+    this.router.navigate(['/game']);
+  }
+  payment() {
+    this.router.navigate(['/payment']);
+  }
+  program() {
+    this.router.navigate(['/programming']);
+  }
+  travel() {
+    this.router.navigate(['/travel']);
+  }
+  bank() {
+    this.router.navigate(['/banking']);
+  }
+  basket() {
+    this.router.navigate(['/basketball']);
+  }
+  computer() {
+    this.router.navigate(['/computer']);
+  }
+  business() {
+    this.router.navigate(['/business']);
+  }
+  invest() {
+    this.router.navigate(['/investing']);
+  }
+  fitnes() {
+    this.router.navigate(['/fitnes']);
+  }
 }
