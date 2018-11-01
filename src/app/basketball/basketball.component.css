@@ -1,0 +1,18 @@
+.newhealth {
+  font-weight: 700;
+}
+
+.imghealth {
+  margin-right: 10px;
+}
+
+.health {
+  padding-bottom: 10px;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #00BCD4;
+}

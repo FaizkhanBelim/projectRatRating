@@ -56,7 +56,7 @@ export class HomeComponent implements OnInit {
     this.router.navigate(['/basketball']);
   }
   computer() {
-    this.router.navigate(['/computer']);
+    this.router.navigate(['/webdesign']);
   }
   business() {
     this.router.navigate(['/business']);

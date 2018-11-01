@@ -42,7 +42,7 @@ const routes: Routes = [
   { path : 'travel', component: TravelComponent },
   { path : 'banking', component: BankingComponent },
   { path : 'basketball', component: BasketballComponent },
-  { path : 'computer', component: ComputerComponent },
+  { path : 'webdesign', component: ComputerComponent },
   { path : 'business', component: BusinessComponent },
   { path : 'investing', component: InvestingComponent },
   { path : 'fitnes', component: FitnesComponent }
